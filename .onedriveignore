@@ -1,0 +1,17 @@
+# OneDrive ignore file
+# Prevent OneDrive from syncing these folders/files
+
+# Next.js build output
+.next/
+out/
+.vercel/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env*.local
+
+# Build artifacts
+*.tsbuildinfo
+
