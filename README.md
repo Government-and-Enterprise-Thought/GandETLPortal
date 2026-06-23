@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository has migrated to Forgejo: https://git.gandetl.com/Government_Enterprise_Thought_Leaders/GandETLPortal
+> The GitHub copy is archived and read-only.
+
 # GandETL Portal
 
 A modern, responsive portal page for gandetl.com built with Next.js, React, and TypeScript.
